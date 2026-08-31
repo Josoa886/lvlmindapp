@@ -2,7 +2,7 @@
   <img src="https://github.com/josoavj/lvlmindapp/assets/76913187/5dda5a6a-5e5d-41e6-a818-17b853a7957f" alt="LevelMind Logo" width="150"/>
 </p>
 
-<h1 align="center">🎓 LevelMind</h1>
+<h1 align="center">LevelMind</h1>
 
 <p align="center">
   <strong>Une plateforme d'e-learning innovante pour les écoles et universités</strong>
@@ -20,7 +20,7 @@
 
 ---
 
-## 📋 Table des Matières
+## Table des Matières
 
 - [📖 À Propos](#-à-propos)
 - [✨ Fonctionnalités](#-fonctionnalités)
